@@ -1,0 +1,49 @@
+
+.currentpage {
+font-style: italic;
+}
+
+.smallimg {
+	height: 200px;
+	width: 200px;
+	margin: 20px ;
+}
+
+.img{
+	
+	height: 600px;
+	width: 900px;
+}
+
+.listing
+{   
+	border-style:solid;
+	border-color:gray;
+	margin:30px;
+	padding-left: 1em;
+}
+
+.listing > a {
+	margin:40px;
+}
+
+.photoalbum {
+	border-style:solid;
+	margin:30px;
+	border-color:black;
+	height: 400px;
+	width: 400px;
+}
+
+
+center{
+}
+img {}
+body{
+	
+  margin: 200px;
+  background-color: gray;
+  background-image:url('images/background for sublime.jpg');
+  background-repeat: repeat-y;
+}
+h1{font-size: 60px; 
